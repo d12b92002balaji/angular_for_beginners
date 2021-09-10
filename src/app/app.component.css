@@ -1,0 +1,9 @@
+.text-success{
+    color: red;
+}
+.text-danger{
+    color: blue;
+}
+.text-special{
+    font-style: italic;
+}
